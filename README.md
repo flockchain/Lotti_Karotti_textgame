@@ -1,5 +1,5 @@
 # Lotti_Karotti_textgame
-Here I have implemented the Lotti-Karotti game according to the original concept as a text-based console game. For 2 - 4 players. Have fun
+Here I have implemented the Lotti-Karotti game according to the original concept as a text-based console game. For 2 - 4 players. Have fun!
 This text game is in the german language!
 
 To play this game:
